@@ -1,45 +1,18 @@
 ---
-name: Elastic Email
-x-slug: elastic-email
-description: Elastic Email is an all-in-one email delivery platform. Send beautiful
-  newsletters or transactional emails in a better way.
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/586-elastic-email.jpg
-x-kinRank: "8"
-x-alexaRank: "50338"
-tags: Elastic Email
-created: "2018-05-23"
-modified: "2018-05-23"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/elastic-email/master/_listings/elastic-email/apis.md
+name: Streadata.io API Gallery - Elastic Email
+description: This is a repository of elastic email APIs, self-contained as a Github
+  repository, with HTML and YAML representations of the APIs and their surrounding
+  operations.
+image: http://template.streamdata.gallery/assets/elastic-email.png
+created: "2018-02-24"
+modified: "2018-06-19"
+url: http://elastic-email.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
-x-common:
-- type: x-base
-  url: http://api.elasticemail.com
-- type: x-blog
-  url: http://elasticemail.com/blog
-- type: x-blog-rss
-  url: http://elasticemail.com/posts/rss/xml
-- type: x-crunchbase
-  url: https://crunchbase.com/organization/elastic-email
-- type: x-crunchbase
-  url: http://www.crunchbase.com/company/elastic-email
-- type: x-documentation
-  url: https://elasticemail.com/api-documentation
-- type: x-email
-  url: support@elasticemail.com
-- type: x-pricing
-  url: https://elasticemail.com/pricing
-- type: x-privacy
-  url: https://elasticemail.com/privacy-policy
-- type: x-selfservice-registration
-  url: https://elasticemail.com/account#/create-account
-- type: x-terms-of-service
-  url: https://elasticemail.com/terms
-- type: x-twitter
-  url: https://twitter.com/elastic_email
-- type: x-website
-  url: http://elasticemail.com
-include: []
+tags: Elastic Email
+include:
+- name: Elastic Email
+  url: https://raw.githubusercontent.com/streamdata-gallery-organizations/elastic-email/master/_listings/elastic-email/apis.yaml
 maintainers:
 - FN: Kin Lane
   x-twitter: apievangelist
