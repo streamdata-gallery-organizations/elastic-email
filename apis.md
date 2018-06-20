@@ -5,7 +5,7 @@ description: This is a repository of elastic email APIs, self-contained as a Git
   operations.
 image: http://template.streamdata.gallery/assets/elastic-email.png
 created: "2018-02-24"
-modified: "2018-06-19"
+modified: "2018-06-20"
 url: http://elastic-email.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
